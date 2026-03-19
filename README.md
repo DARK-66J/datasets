@@ -14,4 +14,4 @@ Variáveis:
 import pandas as pd
 ```
 
-mmm
+[Lincença Apache 2](LICENCE.txt)
